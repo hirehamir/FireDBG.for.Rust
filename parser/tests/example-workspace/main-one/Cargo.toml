@@ -10,4 +10,4 @@ edition = "2021"
 quick-sort = { path = "../quick-sort" }
 serde = { git = "https://github.com/serde-rs/serde" }
 syn = { version = "2" }
-rand = "0.8.5"
+rand = "0.10.1"
